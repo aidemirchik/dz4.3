@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(34, 208, 239);
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    white-space: 10px;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+p {
+    width: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.images {
+    width: 300px;
+    height: 250px;
+}
+.qw{
+    width: 20px;
+}
